@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **web developers and opensource contributors**
 
-- 👨‍💻 Personal Portfolio Website [http://ApeSkillx.github.io](http://ApeSkillx.github.io)
+- 👨‍💻 Personal Portfolio Website [http://ApeSkillx.github.io](https://apeskillx.github.io/Portfolio/)
 
 - 📫 Reach me at **mrkant19@gmail.com**
 
