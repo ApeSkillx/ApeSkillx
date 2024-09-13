@@ -15,9 +15,18 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<span href="https://www.linkedin.com/in/chhavi-kant-343010203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ApeSkillx" height="30" width="40" /></span> <span href="https://www.naukri.com/code360/profile/cb7d2bd5-306c-4025-9426-10bc7a692ffa" target="blank"><img align="center" src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="chhavikant" height="30" width="40" /></span> <a href="https://leetcode.com/u/Chhavikant/" target="_blank">
+<a href="https://www.linkedin.com/in/chhavi-kant-343010203/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a> 
+
+<a href="https://www.naukri.com/code360/profile/cb7d2bd5-306c-4025-9426-10bc7a692ffa" target="_blank">
+  <img align="center" src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Naukri" height="30" width="40" />
+</a> 
+
+<a href="https://leetcode.com/u/Chhavikant/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
 </a>
+>
 
 </p>
 
